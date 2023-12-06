@@ -1,0 +1,15 @@
+<div class="col-md-6">
+  <div class="form-group">
+    <label for="delivery_time">Waktu Pengiriman:</label>
+    <select class="form-control" name="delivery_time" id="delivery_time">
+      <option value="">Pilih Waktu Pengiriman</option>
+      <option value="45 minutes">45 minutes</option>
+      <option value="30 minutes">30 minutes</option>
+      <option value="65 minutes">65 minutes</option>
+      <option value="120 minutes">120 minutes</option>
+      <option value="80 minutes">80 minutes</option>
+      <option value="10 minutes">10 minutes</option>
+      <option value="20 minutes">20 minutes</option>
+    </select>
+  </div>
+</div>
